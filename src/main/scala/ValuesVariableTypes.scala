@@ -1,4 +1,4 @@
-package udemy.part1basics
+package udemy
 
 object ValuesVariableTypes extends App {
   val x = 42
