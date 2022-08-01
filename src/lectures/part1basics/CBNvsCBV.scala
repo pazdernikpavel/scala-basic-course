@@ -1,4 +1,4 @@
-package udemy
+package udemy.part1basics
 
 object CBNvsCBV extends App {
 
