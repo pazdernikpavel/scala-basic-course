@@ -8,9 +8,6 @@ object AnonymousFunctions extends App {
   // multiple params
   val adder: (Int, Int) => Int = (a, b) => a + b
 
-  var test = "Test"
-  test = 
-
   // no params
   val doSomething = () => 3
 
