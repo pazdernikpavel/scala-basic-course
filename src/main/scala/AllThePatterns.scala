@@ -56,14 +56,14 @@ object AllThePatterns extends App {
   }
 
   // 7 - NAME BINDING
-  val nameBindingMatch = list match {
+/*   val nameBindingMatch = list match {
     case notEmptyList @ List(_, _) => // you can use notEmptyList later
     case cons(1, rest @ cons(2, _)) => 
-  }
+  } */
 
   // 8 - MULTIPATTERN
-  val multipattern = list match {
-    case empty| cons(0, _) => // compound pattern
-  }
+/*   val multipattern = list match {
+    // case empty| cons(0, _) => // compound pattern
+  } */
 
 }
